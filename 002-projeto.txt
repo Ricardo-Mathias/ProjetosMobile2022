@@ -1,8 +1,0 @@
-
-
-var numero1= 10;
-var numero2= 30;
-var soman1n2= numero1+numero2;
-
-console.log("A soma de numero1 e numero2 é " + soman1n2);
-
