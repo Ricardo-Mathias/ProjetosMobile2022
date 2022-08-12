@@ -6,3 +6,8 @@ var novosalarioinflacao = novosalario - (inflacao*novosalario);
 
 console.log = (novosalario);
 console.log = (novosalarioinflacao);
+
+var strnovosalario = `O novo Salário é:\n R$\t${novosalario}`;
+var strnovosalarioinflacao = `O novo Salário aplicada inflação é: \n R$ ${novosalarioinflacao}`;
+console.log( strnovosalario );
+console.log( strnovosalarioinflacao );
